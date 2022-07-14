@@ -1,7 +1,7 @@
 
 const express = require("express");
 const morgan = require("morgan");
-const postBank = require('/postbank2');
+const postBank = require('./postbank2');
 const app = express();
 
 
